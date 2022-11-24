@@ -32,7 +32,6 @@ let my_Resume = [
     }
   }
 ];
-console.log(my_Resume);
 
 //for loop
 for(let i=0;i<my_Resume.length;i++){
